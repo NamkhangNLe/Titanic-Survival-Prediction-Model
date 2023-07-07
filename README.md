@@ -13,7 +13,7 @@ In this repository, we implement a Random Forest model to tackle the Titanic sur
 # Repository Structure
 The repository is structured as follows:
 
-train.csv/: This directory contains the training and test datasets in CSV format. Ensure that the datasets are placed here before running the model.
+'train.csv/' : This directory contains the training and test datasets in CSV format. Ensure that the datasets are placed here before running the model.
 test.csv/: This directory contains the training and test datasets in CSV format. Ensure that the datasets are placed here before running the model.
 Titanic.knwf/: This directory contains the source code for the Random Forest model implementation.
 README.md: This file provides an overview of the repository and instructions for running the model.
