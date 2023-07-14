@@ -33,4 +33,4 @@ Feel free to explore and modify the code to improve the model's performance and 
 If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request. Contributions are always welcome!
 
 # License
-This project is licensed under the MIT License. Feel free to use the code provided here for your own projects.
+This project is licensed under the MIT License. Feel free to use the code provided here for your own projects
